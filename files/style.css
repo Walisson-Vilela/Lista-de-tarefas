@@ -1,0 +1,18 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+}
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
